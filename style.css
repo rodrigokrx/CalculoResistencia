@@ -1,0 +1,51 @@
+#p{
+    color: white;
+    background-color: black;
+}
+#m{
+    color: white;
+    background-color: saddlebrown;
+}
+#v{
+    color: white;
+    background-color: red;
+}
+#l{
+    color: white;
+    background-color: orange;
+
+}
+#a{
+    color: black;
+    background-color: yellow;
+}
+#ve{
+    color: white;
+    background-color: green;
+}
+#az{
+    color: white;
+    background-color: blue;
+}
+#vi{
+    color: white;
+    background-color: violet;
+}
+#c{
+    color: white;
+    background-color: gray;
+}
+#b{
+    color: black;
+}
+#d{
+    color: black;
+    background-color: gold;
+}
+#pr{
+    color: black;
+    background-color: silver;
+}
+button{
+    border-radius: 15%;
+}
